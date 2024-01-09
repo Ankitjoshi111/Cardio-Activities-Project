@@ -13,6 +13,7 @@ It utilizes popular data science libraries such as Pandas, NumPy, Matplotlib, Se
 
 
 
+
 ![Figure_68](https://github.com/Ankitjoshi111/Cardio-Activities-Project/assets/147061311/88a87910-8af7-46cd-8b5e-8f1ec0d2f3f9)
 ![Figure_67](https://github.com/Ankitjoshi111/Cardio-Activities-Project/assets/147061311/8dd0d72a-eaeb-4a81-9247-ecb3c0a51d19)
 ![Figure_66](https://github.com/Ankitjoshi111/Cardio-Activities-Project/assets/147061311/2b00729c-f1ed-4c89-bab1-ba967a6318eb)
