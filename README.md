@@ -1,6 +1,6 @@
-**Cardio Activites Analysis**
+## Cardio Activites Analysis
 
-Welcome to the Cardio Activities project! This project aims to analyze and visualize cardio-related data using Python. 
+**Welcome** to the Cardio Activities project! This project aims to analyze and visualize cardio-related data using Python. 
 It utilizes popular data science libraries such as Pandas, NumPy, Matplotlib, Seaborn, and scikit-learn for data manipulation, analysis, and visualization.
 
 ## Features
@@ -8,6 +8,10 @@ It utilizes popular data science libraries such as Pandas, NumPy, Matplotlib, Se
 - Data preprocessing and cleaning with Pandas and NumPy.
 - Exploratory Data Analysis (EDA) using Matplotlib and Seaborn for insightful visualizations.
 - Machine learning models for predicting and classifying cardio activities using scikit-learn.
+
+
+
+
 
 ![Figure_68](https://github.com/Ankitjoshi111/Cardio-Activities-Project/assets/147061311/88a87910-8af7-46cd-8b5e-8f1ec0d2f3f9)
 ![Figure_67](https://github.com/Ankitjoshi111/Cardio-Activities-Project/assets/147061311/8dd0d72a-eaeb-4a81-9247-ecb3c0a51d19)
